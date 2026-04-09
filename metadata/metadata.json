@@ -1,7 +1,7 @@
 {
   "description": "Friendly Test of NFT on NFT MARKETPLACE",
   "external_url": "https://openseacreatures.io/3",
-  "image": "https://raw.githubusercontent.com/logicfool/nft_test_metadata/main/images/image.jpeg",
+  "image": "https://raw.githubusercontent.com/logicfool/nft_test_metadata/refs/heads/main/images/image.jpeg",
   "name": "TEST 1",
   "attributes": []
 }
